@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-10-29T20:45:20.064+01:00
-  initializedAtString: 2020-10-29T20:45:20.064+01:00
+  lastUpdatedAtString: 2020-10-29T20:53:40.143+01:00
+  initializedAtString: 2020-10-29T20:53:40.143+01:00
   currentGitRemote:
     name: origin
     url: https://github.com/pawelsa/crowd_simulator
